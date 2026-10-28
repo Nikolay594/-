@@ -156,8 +156,8 @@ $$typedef struct { int time; int type; float value; } Incident;$$
 
 ## 11. Статус этапов
 
-- [x] КТ1 
-- [ ] КТ2 
-- [ ] КТ3 
-- [ ] КТ4
-- [ ] КТ5
++  КТ1 
+-  КТ2 
+-  КТ3 
+-  КТ4
+-  КТ5
